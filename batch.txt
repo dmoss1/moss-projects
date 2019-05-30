@@ -1,0 +1,7 @@
+cd
+mkdir demo
+touch testing.txt
+echo hello
+cd ..
+dir demo
+environ
